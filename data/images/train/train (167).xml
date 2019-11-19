@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>train (167).jpg</filename>
+	<path>D:\Projects\receipt_detection\receipt_data\Jsons\Images\Train\train (167).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>11</ymin>
+			<xmax>581</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>
