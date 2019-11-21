@@ -4,3 +4,4 @@ __pycache__
 .vscode/
 models/*
 Model1/
+Model2/
