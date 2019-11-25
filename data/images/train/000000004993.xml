@@ -1,0 +1,26 @@
+<annotation>
+	<folder>negative_cases</folder>
+	<filename>000000004993.jpg</filename>
+	<path>D:\Projects\receipt_detection\receipt_data\Jsons\images\negative_cases\000000004993.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>494</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>639</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>
