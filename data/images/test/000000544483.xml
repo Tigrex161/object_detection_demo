@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>neg_cases_test</folder>
+	<filename>000000544483.jpg</filename>
+	<path>D:\Projects\receipt_detection\receipt_data\Jsons\images\neg_cases_test\000000544483.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

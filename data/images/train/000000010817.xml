@@ -1,4 +1,4 @@
-<annotation>
+<annotation verified="yes">
 	<folder>negative_cases</folder>
 	<filename>000000010817.jpg</filename>
 	<path>D:\Projects\receipt_detection\receipt_data\Jsons\images\negative_cases\000000010817.jpg</path>
@@ -11,16 +11,4 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>none</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2</xmin>
-			<ymin>1</ymin>
-			<xmax>640</xmax>
-			<ymax>477</ymax>
-		</bndbox>
-	</object>
 </annotation>
