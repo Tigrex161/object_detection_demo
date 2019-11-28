@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>test (125).jpg</filename>
+	<path>D:\Projects\receipt_detection\receipt_data\Jsons\Images\Test\test (125).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>155</ymin>
+			<xmax>795</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>
