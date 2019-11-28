@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Test</folder>
-	<filename>test (100).jpg</filename>
-	<path>D:\Projects\receipt_detection\receipt_data\Jsons\Images\Test\test (100).jpg</path>
+	<filename>test (11).jpg</filename>
+	<path>D:\Projects\receipt_detection\receipt_data\Jsons\Images\Test\test (11).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -15,11 +15,11 @@
 		<name>doc</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<difficult>1</difficult>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>61</xmin>
+			<xmin>85</xmin>
 			<ymin>5</ymin>
-			<xmax>741</xmax>
+			<xmax>630</xmax>
 			<ymax>600</ymax>
 		</bndbox>
 	</object>

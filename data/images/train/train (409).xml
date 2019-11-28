@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Train</folder>
-	<filename>train (410).jpg</filename>
-	<path>D:\Projects\receipt_detection\receipt_data\Jsons\Images\Train\train (410).jpg</path>
+	<filename>train (409).jpg</filename>
+	<path>D:\Projects\receipt_detection\receipt_data\Jsons\Images\Train\train (409).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>118</xmin>
-			<ymin>21</ymin>
-			<xmax>615</xmax>
-			<ymax>465</ymax>
+			<xmin>135</xmin>
+			<ymin>18</ymin>
+			<xmax>661</xmax>
+			<ymax>548</ymax>
 		</bndbox>
 	</object>
 </annotation>
