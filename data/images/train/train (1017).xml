@@ -1,26 +1,14 @@
-<annotation>
-	<folder>Train</folder>
-	<filename>train (1017).jpg</filename>
-	<path>D:\Projects\receipt_detection\receipt_data\Jsons\Images\Train\train (1017).jpg</path>
+<annotation verified="yes">
+	<folder>neg_sam</folder>
+	<filename>000000000034.jpg</filename>
+	<path>D:\Projects\receipt_detection\receipt_data\Jsons\images\neg_sam\000000000034.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>600</width>
+		<height>800</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>doc</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>211</xmin>
-			<ymin>11</ymin>
-			<xmax>588</xmax>
-			<ymax>588</ymax>
-		</bndbox>
-	</object>
 </annotation>

@@ -1,26 +1,14 @@
-<annotation>
-	<folder>unlabeled_test</folder>
-	<filename>test (179).jpg</filename>
-	<path>D:\Projects\receipt_detection\receipt_data\Jsons\images\unlabeled_test\test (179).jpg</path>
+<annotation verified="yes">
+	<folder>neg_sam</folder>
+	<filename>000000161367.jpg</filename>
+	<path>D:\Projects\receipt_detection\receipt_data\Jsons\images\neg_sam\000000161367.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>600</width>
+		<height>800</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>doc</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>55</xmin>
-			<ymin>78</ymin>
-			<xmax>741</xmax>
-			<ymax>488</ymax>
-		</bndbox>
-	</object>
 </annotation>
