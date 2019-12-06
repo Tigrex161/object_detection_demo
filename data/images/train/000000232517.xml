@@ -1,0 +1,26 @@
+<annotation>
+	<folder>background</folder>
+	<filename>000000232517.jpg</filename>
+	<path>C:\Users\VisionX\Desktop\to_be_labelled\to_be_labelled\background\000000232517.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>449</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Background</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>449</xmax>
+			<ymax>638</ymax>
+		</bndbox>
+	</object>
+</annotation>
