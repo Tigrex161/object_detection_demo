@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPG FOLDER</folder>
+	<filename>abc (86).jpg</filename>
+	<path>C:\Users\aqeel.ahmad\Desktop\JPG FOLDER\abc (86).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>821</width>
+		<height>1632</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>218</ymin>
+			<xmax>716</xmax>
+			<ymax>1331</ymax>
+		</bndbox>
+	</object>
+</annotation>

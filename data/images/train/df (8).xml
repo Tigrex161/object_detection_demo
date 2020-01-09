@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11</folder>
+	<filename>df (8).jpg</filename>
+	<path>C:\Users\muhammad.wajahat\Desktop\11\df (8).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>165</ymin>
+			<xmax>4095</xmax>
+			<ymax>2050</ymax>
+		</bndbox>
+	</object>
+</annotation>

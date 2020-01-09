@@ -1,0 +1,38 @@
+<annotation>
+	<folder>11</folder>
+	<filename>df (578).jpg</filename>
+	<path>C:\Users\muhammad.wajahat\Desktop\11\df (578).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>88</ymin>
+			<xmax>573</xmax>
+			<ymax>1344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>doc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>86</ymin>
+			<xmax>571</xmax>
+			<ymax>1342</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8 JAN</folder>
+	<filename>3e3c5515-b9a6-91aa-4c0c-1d40f2b6612d.jpg</filename>
+	<path>C:\Users\aqeel.ahmedjr\Desktop\8 JAN\3e3c5515-b9a6-91aa-4c0c-1d40f2b6612d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>65</ymin>
+			<xmax>595</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>

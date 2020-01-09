@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ahmed 2</folder>
+	<filename>131862-1567020403.-65759709-5F0F-4643-A231-43A29035A261.jpg</filename>
+	<path>C:\Users\ahmed.nawaz\Desktop\Ahmed 2\131862-1567020403.-65759709-5F0F-4643-A231-43A29035A261.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>1472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>126</ymin>
+			<xmax>685</xmax>
+			<ymax>1421</ymax>
+		</bndbox>
+	</object>
+</annotation>
