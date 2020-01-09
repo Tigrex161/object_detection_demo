@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TTT</folder>
+	<filename>ing (94).jpg</filename>
+	<path>C:\Users\zaheer.ahmad\Desktop\TTT\ing (94).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4224</width>
+		<height>2376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>802</xmin>
+			<ymin>164</ymin>
+			<xmax>3793</xmax>
+			<ymax>2078</ymax>
+		</bndbox>
+	</object>
+</annotation>
